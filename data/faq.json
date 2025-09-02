@@ -1,0 +1,22 @@
+[
+{"q": "what are your working hours", "a": "We operate online 24/7."},
+{"q": "how long is shipping", "a": "Standard shipping takes 3-5 business days."},
+{"q": "what is your return policy", "a": "Returns accepted within 30 days in original condition."},
+{"q": "how do i contact support", "a": "Email support@example.com or reply here for help."},
+{"q": "do you offer discounts", "a": "We occasionally run promotions; check the homepage."},
+{"q": "do you deliver internationally", "a": "Yes, we ship to many countries; fees vary by region."},
+{"q": "can i cancel my order", "a": "Orders can be canceled within 12 hours of placement."},
+{"q": "how do i track my order", "a": "A tracking link is sent by email once the order ships."},
+{"q": "what payment methods are accepted", "a": "We accept major credit cards and PayPal."},
+{"q": "is cash on delivery available", "a": "Currently, cash on delivery is not available."},
+{"q": "how much is the shipping fee", "a": "Shipping fees depend on weight and destination; shown at checkout."},
+{"q": "how do i change my address", "a": "Update your address in your account or contact support."},
+{"q": "do products have warranty", "a": "Yes, most electronics include a 1-year limited warranty."},
+{"q": "how do i request a refund", "a": "Contact support with your order ID; processing takes 5-7 days."},
+{"q": "can i pick up my order", "a": "Store pickup is not available at this time."},
+{"q": "are there student discounts", "a": "Special discounts may run seasonally; check announcements."},
+{"q": "do you have gift wrapping", "a": "Gift wrapping can be added at checkout when available."},
+{"q": "how do i apply a coupon", "a": "Enter your coupon code at checkout before payment."},
+{"q": "can i change my order items", "a": "Edits within 12 hours may be possible; contact support."},
+{"q": "are my payments secure", "a": "Payments are processed through secure, PCI-compliant gateways."}
+]

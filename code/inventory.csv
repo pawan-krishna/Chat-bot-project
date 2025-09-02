@@ -1,0 +1,16 @@
+product_id ; name ; price ; stock_qty
+1001; wireless mouse;  12.99 ;25
+;;;
+1002; usb keyboard; 18.50;0
+;;;
+1003; gaming headset ; 45.00 ;7
+;;;
+1004; laptop stand ; 23.75 ;10
+;;;
+1005; bluetooth speaker ; 39.90;15
+;;;
+1006; webcam hd; 29.50 ;12
+;;;
+1007;usb c cable  ; 6.99 ;100
+;;;
+1008; portable ssd 1tb ; 89.00 ;6
